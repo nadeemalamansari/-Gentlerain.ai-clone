@@ -5,7 +5,20 @@
 <img width="1708" height="1031" alt="Screenshot 2026-01-16 at 2 53 13 PM" src="https://github.com/user-attachments/assets/fb5a4505-605d-4070-9a4b-bb3aae184028" />
 <img width="1710" height="1029" alt="Screenshot 2026-01-16 at 2 52 52 PM" src="https://github.com/user-attachments/assets/3d831c32-ba63-42d1-8440-0d8e4ebfbcbd" />
 
-demo video.mp4
+## 🎥 Demo Video
+
+<div align="center">
+  <video width="90%" controls poster="https://raw.githubusercontent.com/nadeemalamansari/Gentlerain.ai-clone/main/assets/thumbnail.jpg">
+    <source src="https://github.com/nadeemalamansari/Gentlerain.ai-clone/raw/main/demo%20video.mp4" type="video/mp4">
+    Your browser does not support the video tag. 
+    <a href="https://github.com/nadeemalamansari/Gentlerain.ai-clone/raw/main/demo%20video.mp4">Download the video instead</a>
+  </video>
+  
+  *60-second feature demonstration showcasing all implemented features*
+</div>
+
+**Direct Video Link:** [demo video.mp4](https://github.com/nadeemalamansari/Gentlerain.ai-clone/raw/main/demo%20video.mp4)
+
 
 **Live Demo:** [https://yourusername.github.io/gentlerain-clone](https://yourusername.github.io/gentlerain-clone)  
 **Duration:** 3 Days | **Marks:** 100 | **Status:** ✅ Complete
