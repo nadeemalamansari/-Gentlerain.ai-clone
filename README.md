@@ -1,4 +1,11 @@
 # 🌧️ Gentlerain.ai Clone - Web Development Assignment
+<img width="1710" height="1112" alt="Screenshot 2026-01-16 at 2 52 25 PM" src="https://github.com/user-attachments/assets/06a8bb99-a37a-481f-8ef2-0710d64868f0" />
+<img width="1706" height="1030" alt="Screenshot 2026-01-16 at 2 52 14 PM" src="https://github.com/user-attachments/assets/3905c806-2afa-479b-b86f-18862aae182b" />
+<img width="1705" height="1032" alt="Screenshot 2026-01-16 at 2 51 56 PM" src="https://github.com/user-attachments/assets/47bb2721-5a6a-42aa-b1f3-99bf68c1c590" />
+<img width="1708" height="1031" alt="Screenshot 2026-01-16 at 2 53 13 PM" src="https://github.com/user-attachments/assets/fb5a4505-605d-4070-9a4b-bb3aae184028" />
+<img width="1710" height="1029" alt="Screenshot 2026-01-16 at 2 52 52 PM" src="https://github.com/user-attachments/assets/3d831c32-ba63-42d1-8440-0d8e4ebfbcbd" />
+
+
 
 **Live Demo:** [https://yourusername.github.io/gentlerain-clone](https://yourusername.github.io/gentlerain-clone)  
 **Duration:** 3 Days | **Marks:** 100 | **Status:** ✅ Complete
